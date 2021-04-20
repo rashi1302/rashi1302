@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rashi Agarwal.
-- 👀 I’m interested in web development and virtual reality.
+- 👀 I’m interested in web development and software development.
 - 🌱 I’m currently learning how to develop a responsive web.
 - 💞️ I’m looking to collaborate on something related to development.
 - 📫 How to reach me Gmail me - rashi130201@gmail.com
