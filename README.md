@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rashi Agarwal.
 - 👀 I’m interested in web development and software development.
-- 🌱 I’m currently learning how to develop a responsive web.
-- 💞️ I’m looking for a collaboration.
+- 🌱 I’m currently learning 3d animation.
+- 💞️ I’m open for a collaboration.
 - 📫 How to reach me Gmail me - rashi130201@gmail.com
 
 <!---
